@@ -6,7 +6,7 @@ int main(){
     /*Nome 
     Idade
     Matricula
-    Endereço
+    Endereçoo
     Curso
     Período
     Disciplinas*/
